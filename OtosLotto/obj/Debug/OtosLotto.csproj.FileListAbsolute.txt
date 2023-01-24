@@ -1,0 +1,15 @@
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.exe.config
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.csproj.AssemblyReference.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2019\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.exe.config
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\bin\Debug\OtosLotto.pdb
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.csproj.AssemblyReference.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.csproj.CoreCompileInputs.cache
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.exe
+C:\Users\Dbz\OneDrive\Documents\Visual Studio 2022\Projects\OtosLotto\OtosLotto\obj\Debug\OtosLotto.pdb
